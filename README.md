@@ -1,7 +1,8 @@
 # DynamicWebResources
-A collaborative collection of resources and links for New Media 3720 - The Dynamic Web
+<em>A collaborative collection of resources and links for New Media 3720 - The Dynamic Web</em>
 
-How to contribute: This document is formated using markdown (See the [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet))
+__How to contribute:__ This document is formated using markdown (See the [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet))
+__Example Repo:__ [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
 
 ### Documentation
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
