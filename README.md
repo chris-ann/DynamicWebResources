@@ -17,3 +17,5 @@
 ### CSS Grid
 * [A Complete Guide to Grid ](https://css-tricks.com/snippets/css/complete-guide-grid/)
 * [Grid by Example](https://gridbyexample.com/learn/)
+* [IE Implementation of Grid](https://rachelandrew.co.uk/archives/2016/11/26/should-i-try-to-use-the-ie-implementation-of-css-grid-layout/)
+
