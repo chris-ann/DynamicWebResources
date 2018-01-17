@@ -49,3 +49,4 @@
 
 ### Responsive Design
 * [Introduction](https://www.w3schools.com/css/css_rwd_intro.asp)
+* [Media Query Examples](https://www.w3schools.com/css/css3_mediaqueries_ex.asp)
