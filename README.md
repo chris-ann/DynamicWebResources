@@ -11,41 +11,25 @@
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 * [W3 Schools](https://www.w3schools.com/)
 
-### Code Community
-* [Smashing Magazine](https://www.smashingmagazine.com/)
+*****
 
 ### CSS Grid
 * [A Complete Guide to Grid ](https://css-tricks.com/snippets/css/complete-guide-grid/)
 * [Grid by Example](https://gridbyexample.com/learn/)
 * [IE Implementation of Grid](https://rachelandrew.co.uk/archives/2016/11/26/should-i-try-to-use-the-ie-implementation-of-css-grid-layout/)
 
-
+*****
 
 ### Hubs for Reading and Shop Talk
 * [Smashing Magazine](https://www.smashingmagazine.com/)
 * [A List Apart](http://alistapart.com/)
 
-
-
-
-
-
-
-
-
-
-
-
+*****
 
 ### Technique Code Tutorials 
 * [Codrops](https://tympanus.net/codrops/category/tutorials/)
 
-
-
-
-
-
-
+*****
 
 ### Responsive Design
 * [Introduction](https://www.w3schools.com/css/css_rwd_intro.asp)
