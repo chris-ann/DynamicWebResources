@@ -22,9 +22,8 @@
 
 
 ### Hubs for Reading and Shop Talk
-* [Smashing Magazine] https://www.smashingmagazine.com/
-
-
+* [Smashing Magazine](https://www.smashingmagazine.com/)
+* [A List Apart](http://alistapart.com/)
 
 
 
