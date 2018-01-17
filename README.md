@@ -21,7 +21,8 @@
 
 
 
-
+### Hubs for Reading and Shop Talk
+* [Smashing Magazine] https://www.smashingmagazine.com/
 
 
 
