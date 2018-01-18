@@ -1,7 +1,7 @@
 # DynamicWebResources
 <em>A collaborative collection of resources and links for New Media 3720 - The Dynamic Web</em>
 
-<b>How to contribute:</b> This document is formated using markdown (See the [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet))
+<b>How to contribute:</b> This document is formatted using markdown (See the [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet))
 
 <b>Example Repo:</b> [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
 
@@ -26,7 +26,7 @@
 
 *****
 
-### Technique Code Tutorials 
+### Technique Code Tutorials
 * [Codrops](https://tympanus.net/codrops/category/tutorials/)
 
 *****
@@ -34,3 +34,8 @@
 ### Responsive Design
 * [Introduction](https://www.w3schools.com/css/css_rwd_intro.asp)
 * [Media Query Examples](https://www.w3schools.com/css/css3_mediaqueries_ex.asp)
+
+*****
+
+### Corgi
+![Alt text](/img/pembroke-welsh-corgi-hero.jpg)
