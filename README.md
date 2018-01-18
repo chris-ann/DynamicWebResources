@@ -37,5 +37,5 @@
 
 *****
 
-### Corgi
+### Corgi Image test
 ![Alt text](/img/pembroke-welsh-corgi-hero.jpg)
