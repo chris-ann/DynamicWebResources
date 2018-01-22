@@ -45,10 +45,9 @@
 
 
 
-### Technique Code Tutorials 
-=======
+
 ### Technique Code Tutorials
->>>>>>> df9bd873c889dd0edeff5697c39e65791c6dbcaa
+
 * [Codrops](https://tympanus.net/codrops/category/tutorials/)
 
 *****
@@ -56,6 +55,7 @@
 ### Responsive Design
 * [Introduction](https://www.w3schools.com/css/css_rwd_intro.asp)
 * [Media Query Examples](https://www.w3schools.com/css/css3_mediaqueries_ex.asp)
+* [Font Sizing Units Explained](https://medium.com/@madhum86/css-font-sizing-pixels-vs-em-vs-rem-vs-percent-vs-viewport-units-b1485716afe7)
 
 *****
 
