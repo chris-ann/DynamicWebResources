@@ -50,7 +50,7 @@
 *****
 
 ### PHP
-* [A variety of help PHP examples](https://www.w3schools.com/php/php_examples.asp)
+* [A variety of helpful PHP examples](https://www.w3schools.com/php/php_examples.asp)
 
 *****
 
