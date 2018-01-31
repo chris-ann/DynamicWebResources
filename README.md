@@ -26,16 +26,6 @@
 
 *****
 
-
- 
-
-
-
-
-
-
-
-
 ### Technique Code Tutorials
 
 * [Codrops](https://tympanus.net/codrops/category/tutorials/)
@@ -46,6 +36,11 @@
 * [Introduction](https://www.w3schools.com/css/css_rwd_intro.asp)
 * [Media Query Examples](https://www.w3schools.com/css/css3_mediaqueries_ex.asp)
 * [Font Sizing Units Explained](https://medium.com/@madhum86/css-font-sizing-pixels-vs-em-vs-rem-vs-percent-vs-viewport-units-b1485716afe7)
+
+*****
+
+### Web Design
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/5Z7lSSMwRgo/0.jpg)](http://www.youtube.com/watch?v=5Z7lSSMwRgo)
 
 *****
 
