@@ -41,6 +41,8 @@
 ### All About BuddyPress
 * [BuddyPress Codex](https://codex.buddypress.org/)
 
+*****
+
 ### Web Design
 [![Jen Simmons - Art Direction on the Web](http://img.youtube.com/vi/5Z7lSSMwRgo/0.jpg)](http://www.youtube.com/watch?v=5Z7lSSMwRgo)
 
