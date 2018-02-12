@@ -58,11 +58,15 @@
 * [Font Sizing Units Explained](https://medium.com/@madhum86/css-font-sizing-pixels-vs-em-vs-rem-vs-percent-vs-viewport-units-b1485716afe7)
 
 *****
+### All About BuddyPress
+* [BuddyPress Codex](https://codex.buddypress.org/)
 
 ### Reading Assignment One Links etc. 
 
 ### Corgi Image test
 ![Alt text](/img/pembroke-welsh-corgi-hero.jpg)
+
+
 
 
 
