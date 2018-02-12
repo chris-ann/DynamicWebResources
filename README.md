@@ -50,6 +50,7 @@
 *****
 
 ### WordPress
+* [Child Theme Codex](https://codex.wordpress.org/Child_Themes)
 * [Creating a Child Theme](https://www.elegantthemes.com/blog/resources/wordpress-child-theme-tutorial)
 
 *****
