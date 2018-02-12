@@ -50,7 +50,7 @@
 *****
 
 ### WordPress
-* Creating a Child Theme](https://www.elegantthemes.com/blog/resources/wordpress-child-theme-tutorial)
+* [Creating a Child Theme](https://www.elegantthemes.com/blog/resources/wordpress-child-theme-tutorial)
 
 *****
 
