@@ -40,12 +40,17 @@
 *****
 
 ### Web Design
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/5Z7lSSMwRgo/0.jpg)](http://www.youtube.com/watch?v=5Z7lSSMwRgo)
+[![Jen Simmons - Art Direction on the Web](http://img.youtube.com/vi/5Z7lSSMwRgo/0.jpg)](http://www.youtube.com/watch?v=5Z7lSSMwRgo)
 
 *****
 
 ### PHP
 * [A variety of helpful PHP examples](https://www.w3schools.com/php/php_examples.asp)
+
+*****
+
+### WordPress
+* Creating a Child Theme](https://www.elegantthemes.com/blog/resources/wordpress-child-theme-tutorial)
 
 *****
 
