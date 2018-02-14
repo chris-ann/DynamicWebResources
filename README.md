@@ -64,7 +64,12 @@
 ### Corgi Image test
 ![Alt text](/img/pembroke-welsh-corgi-hero.jpg)
 
+*****
 
+### Useful code for BP Activity Shortcode Plugin
+* [How to add activity form to BP Activity Shortcode](https://buddypress.org/support/topic/how-to-add-activity-form-to-bp-activity-shortcode/)
+
+*****
 
 
 
