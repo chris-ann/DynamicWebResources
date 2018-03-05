@@ -34,12 +34,18 @@
 
 ### Code Snippits
 
-```
+Page Loading Event
+```javascript
 window.onload = init;
 
 function init() {
   // main js goes here
 }
+```
+
+Get a random number between 0 and 9
+```javascript
+var x = Math.floor(Math.random() * 10);
 ```
 
 *****
