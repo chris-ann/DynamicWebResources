@@ -32,14 +32,22 @@
 
 *****
 
+### Code Snippits
+
+```
+window.onload = init;
+
+function init() {
+  // main js goes here
+}
+```
+
+*****
+
 ### Responsive Design
 * [Introduction](https://www.w3schools.com/css/css_rwd_intro.asp)
 * [Media Query Examples](https://www.w3schools.com/css/css3_mediaqueries_ex.asp)
 * [Font Sizing Units Explained](https://medium.com/@madhum86/css-font-sizing-pixels-vs-em-vs-rem-vs-percent-vs-viewport-units-b1485716afe7)
-
-*****
-### All About BuddyPress
-* [BuddyPress Codex](https://codex.buddypress.org/)
 
 *****
 
@@ -60,15 +68,18 @@
 
 *****
 
+### All About BuddyPress
+* [BuddyPress Codex](https://codex.buddypress.org/)
+
+### Useful code for BP Activity Shortcode Plugin
+* [How to add activity form to BP Activity Shortcode](https://buddypress.org/support/topic/how-to-add-activity-form-to-bp-activity-shortcode/)
+
+*****
+
 ### Reading Assignment One Links etc. 
 
 ### Corgi Image test
 ![Alt text](/img/pembroke-welsh-corgi-hero.jpg)
-
-*****
-
-### Useful code for BP Activity Shortcode Plugin
-* [How to add activity form to BP Activity Shortcode](https://buddypress.org/support/topic/how-to-add-activity-form-to-bp-activity-shortcode/)
 
 *****
 
