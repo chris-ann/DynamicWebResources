@@ -23,6 +23,20 @@
 ### Hubs for Reading and Shop Talk
 * [Smashing Magazine](https://www.smashingmagazine.com/)
 * [A List Apart](http://alistapart.com/)
+* [ProgrammableWeb](https://www.programmableweb.com/)
+
+*****
+
+### The Art of Code
+<details><summary>**Groups using code for art**</summary>
+
+* Demoscene refers to a subculture of programmers that write graphical 'demos' entirely in code such as C#, C++, and even Basic. Big in Europe.
+
+
+* [Pouet Demoscene Archive](http://www.pouet.net/)
+* [Conspiracy - group](http://conspiracy.hu/)
+* [Conspiracy - example video](https://www.youtube.com/watch?v=20vPbH6UWIc)
+</details>
 
 *****
 
