@@ -63,6 +63,23 @@ Get a random number between 0 and 9
 var x = Math.floor(Math.random() * 10);
 ```
 
+Nice way to create elements with jquery
+```javascript
+//first create a variable dictating which element you're using
+//this case is an image
+
+var imagesrc = "some link or filepath to image"
+var $img = $("<img>");
+
+//you can also add attributes, id's, and classes with jq
+//src is the attribute we are adding, the field that needs to be passed 
+// is what you are assigning it
+
+$img.attr("src", imagesrc);
+
+```
+
+
 *****
 
 ### Responsive Design
