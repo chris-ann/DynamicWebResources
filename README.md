@@ -47,6 +47,12 @@
 
 *****
 
+### APIS
+
+* [Public APIs](https://github.com/abhishekbanthia/Public-APIs)
+
+****
+
 ### Code Snippits
 
 Page Loading Event
