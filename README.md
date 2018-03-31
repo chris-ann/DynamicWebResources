@@ -50,6 +50,7 @@
 ### APIS
 
 * [Public APIs](https://github.com/abhishekbanthia/Public-APIs)
+* [List of Free APIs](https://github.com/toddmotto/public-apis) 
 
 ****
 
