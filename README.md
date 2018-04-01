@@ -106,6 +106,12 @@ $img.attr("src", imagesrc);
 
 *****
 
+### HTML
+* [Use HTML forms to send information to the server](https://www.w3schools.com/html/html_forms.asp)
+* [HTML form example](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_form_text)
+
+*****
+
 ### WordPress
 * [Child Theme Codex](https://codex.wordpress.org/Child_Themes)
 * [Creating a Child Theme](https://www.elegantthemes.com/blog/resources/wordpress-child-theme-tutorial)
