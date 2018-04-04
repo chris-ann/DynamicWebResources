@@ -65,12 +65,12 @@ function init() {
 }
 ```
 
-###Get a random number between 0 and 9
+#### Get a random number between 0 and 9
 ```javascript
 var x = Math.floor(Math.random() * 10);
 ```
 
-###Nice way to create elements with jquery
+#### Nice way to create elements with jquery
 ```javascript
 //first create a variable dictating which element you're using
 //this case is an image
@@ -86,7 +86,7 @@ $img.attr("src", imagesrc);
 
 ```
 
-###Send data in the AJAX request
+#### Send data in the AJAX request
 
 To allow the user to request a particular username or hashtag, you can pass the info to the server in the AJAX URL as a query string:
 ```javascript
@@ -100,7 +100,7 @@ Then in get_tweets.php, you can get the query value like this:
 ```php
 $q = $_REQUEST["q"];
 ```
-The $q would then be passed to the $getfield value.
+The $q would then be passed to the $getfield value (Don't forget the '?q' to the string as well.
 
 
 *****
