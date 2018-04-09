@@ -91,17 +91,16 @@ $img.attr("src", imagesrc);
 To allow the user to request a particular username or hashtag, you can pass the info to the server in the AJAX URL as a query string:
 ```javascript
 // grab the value the user entered 
-var query = document.getElementById(hashtag).value;
+var query = document.getElementById("hashtag").value;
 // append it to the AJAX request URL
 xhr.open("GET", "get_tweets.php?q=" + query, true);
 
 ```
-Then in get_tweets.php, you can get the query value like this:
+Then in get_tweets.php, you can get the query value and pass it to the $getfield value:
 ```php
 $q = $_REQUEST["q"];
+$getfield = '?q='.$q;
 ```
-The $q would then be passed to the $getfield value (Don't forget the '?q' to the string as well.
-
 
 *****
 
