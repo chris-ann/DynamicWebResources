@@ -63,9 +63,16 @@
 
 *****
 
+### APIS
+
+* [Public APIs](https://github.com/abhishekbanthia/Public-APIs)
+* [List of Free APIs](https://github.com/toddmotto/public-apis) 
+
+****
+
 ### Code Snippits
 
-Page Loading Event
+###Page Loading Event
 ```javascript
 window.onload = init;
 
@@ -74,9 +81,41 @@ function init() {
 }
 ```
 
-Get a random number between 0 and 9
+#### Get a random number between 0 and 9
 ```javascript
 var x = Math.floor(Math.random() * 10);
+```
+
+#### Nice way to create elements with jquery
+```javascript
+//first create a variable dictating which element you're using
+//this case is an image
+
+var imagesrc = "some link or filepath to image"
+var $img = $("<img>");
+
+//you can also add attributes, id's, and classes with jq
+//src is the attribute we are adding, the field that needs to be passed 
+// is what you are assigning it
+
+$img.attr("src", imagesrc);
+
+```
+
+#### Send data in the AJAX request
+
+To allow the user to request a particular username or hashtag, you can pass the info to the server in the AJAX URL as a query string:
+```javascript
+// grab the value the user entered 
+var query = document.getElementById("hashtag").value;
+// append it to the AJAX request URL
+xhr.open("GET", "get_tweets.php?q=" + query, true);
+
+```
+Then in get_tweets.php, you can get the query value and pass it to the $getfield value:
+```php
+$q = $_REQUEST["q"];
+$getfield = '?q='.$q;
 ```
 
 *****
@@ -95,6 +134,12 @@ var x = Math.floor(Math.random() * 10);
 
 ### PHP
 * [A variety of helpful PHP examples](https://www.w3schools.com/php/php_examples.asp)
+
+*****
+
+### HTML
+* [Use HTML forms to send information to the server](https://www.w3schools.com/html/html_forms.asp)
+* [HTML form example](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_form_text)
 
 *****
 
