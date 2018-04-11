@@ -38,7 +38,7 @@
 * [Conspiracy - example video](https://www.youtube.com/watch?v=20vPbH6UWIc)
 * [pixtur demoscene presentation](https://youtu.be/GswISjlquoU)
 
-* Tools
+### Tools
 * [VVVV](https://vvvv.org/)
 * [Tooll](http://tooll.io/)
 </details>
@@ -55,6 +55,8 @@
 
 * [WebXR](https://github.com/immersive-web/webxr)
 * [Desigining Firefox Reality](https://blog.mozvr.com/the-design-of-firefox-reality/)
+
+*****
 
 ### Technique Code Tutorials
 
