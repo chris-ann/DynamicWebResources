@@ -51,7 +51,7 @@
 
 ### The Future of the Web
 * The web is in constant flux. It is a possibility space for anything that we can imagine if we dare to push at the boundaries. Exploration of these possibilities is not limited to the new, but also to repurposing the old. Sometime we must revisit past aspirations with new eyes. Thing about not only doing old things in new ways, but new things in new ways.
-* Virtual and augemented reality are creating a new paradigm for media experience marked by immersion and embodied interaction. To gain mass adoption, this medium needs mass distribution. In short, the web. The added dynamic potential of web-based applications increases XR's reach and potential.
+* Virtual and augmented reality are creating a new paradigm for media experience marked by immersion and embodied interaction. To gain mass adoption, this medium needs mass distribution. In short, the web. The added dynamic potential of web-based applications increases XR's reach and potential.
 
 * [WebXR](https://github.com/immersive-web/webxr)
 * [Desigining Firefox Reality](https://blog.mozvr.com/the-design-of-firefox-reality/)
