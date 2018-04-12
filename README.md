@@ -10,6 +10,7 @@
 ### Documentation
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 * [W3 Schools](https://www.w3schools.com/)
+* [W3 Resource](https://www.w3resource.com/)
 
 *****
 
@@ -149,6 +150,7 @@ $getfield = '?q='.$q;
 * [Child Theme Codex](https://codex.wordpress.org/Child_Themes)
 * [Creating a Child Theme](https://www.elegantthemes.com/blog/resources/wordpress-child-theme-tutorial)
 * [Moving your WordPress site to a host](http://www.wpbeginner.com/wp-tutorials/how-to-move-wordpress-from-local-server-to-live-site/)
+* [Fixing the 500 Internal Server Error](http://www.wpbeginner.com/wp-tutorials/how-to-fix-the-internal-server-error-in-wordpress/)
 
 *****
 
@@ -157,6 +159,13 @@ $getfield = '?q='.$q;
 
 ### Useful code for BP Activity Shortcode Plugin
 * [How to add activity form to BP Activity Shortcode](https://buddypress.org/support/topic/how-to-add-activity-form-to-bp-activity-shortcode/)
+
+*****
+
+### Troubleshooting
+
+* [Forums for troubleshooting](https://teamtreehouse.com/community)
+* [A simple fix if you accidentally initialize a repository in github on a higher level file](https://teamtreehouse.com/community/ran-git-init-on-home-directory)
 
 *****
 
